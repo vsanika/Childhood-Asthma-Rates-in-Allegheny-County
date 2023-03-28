@@ -9,6 +9,8 @@ Childhood Asthma Healthcare Utilization dataset from data.gov
 
 American Community Survey dataset for demographic information
 
+Map structures
+
 ## Methods
 1. Reviewed raw data files of both datasets to identify potential ways to combine the files and gain a general understanding of the information contained within them.
 
