@@ -20,7 +20,7 @@ American Community Survey dataset for demographic information
 
 5. Evaluated the resulting output dataset to answer key questions.
 
-Key Findings
+## Key Findings
 1. Asthma controller events are not equally distributed across the county.
 
 2. Median income and asthma events have a negative relationship (until a certain income).
