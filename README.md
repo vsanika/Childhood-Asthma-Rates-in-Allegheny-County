@@ -1,4 +1,4 @@
-# Childhood-Asthma-Rates-in-Allegheny-County
+# Childhood Asthma Rates in Allegheny County
 
 This project aims to analyze two datasets to identify strategies for improving asthma outcomes and reducing healthcare costs in Allegheny County. The project focuses on reducing emergency department visits for children with asthma, with a specific focus on those who receive Medicaid-funded services.
 The findings of this project have the potential to improve the lives of children with asthma in Allegheny County and beyond. The project has the potential to inform policy decisions aimed at reducing healthcare disparities and enhancing access to healthcare services for children with asthma. Sharing best practices and lessons learned can influence programs and policy choices that aim to decrease healthcare disparities and improve asthma outcomes.
